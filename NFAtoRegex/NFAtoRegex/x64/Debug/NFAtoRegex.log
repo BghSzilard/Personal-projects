@@ -1,0 +1,3 @@
+﻿  Regex.cpp
+D:\UNITBV\Anul 2\Semestrul2\ACC\NFAtoRegex\NFAtoRegex\Regex.cpp(55,3): warning C4227: anachronism used: qualifiers on reference are ignored
+  NFAtoRegex.vcxproj -> D:\UNITBV\Anul 2\Semestrul2\ACC\NFAtoRegex\x64\Debug\NFAtoRegex.exe

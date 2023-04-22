@@ -1,0 +1,54 @@
+﻿<UserControl x:Class="Balogh_Szilard___tema_2.View.AddTaskDialogBoxView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Balogh_Szilard___tema_2.ViewModel"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+    <UserControl.DataContext>
+        <local:AddTaskDialogBoxViewModel/>
+    </UserControl.DataContext>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Label Grid.Row="0" Grid.Column="0" Content="Task Name:"/>
+        <TextBox Grid.Row="0" Grid.Column="1" Width="200" x:Name="TaskName" Text="{Binding TaskName,Mode=TwoWay}"/>
+        <Label Grid.Row="1" Grid.Column="0" Content="Priority:"/>
+        <ComboBox Grid.Row="1" Grid.Column="1" Width="200" x:Name="Priority"
+            ItemsSource="{Binding PriorityOptions}" SelectedItem="{Binding Priority, Mode=TwoWay}">
+        </ComboBox>
+        <Label Grid.Row="2" Grid.Column="0" Content="Type:"/>
+        <ComboBox Grid.Row="2" Grid.Column="1" Width="200" x:Name="Type"
+            ItemsSource="{Binding CategoryOptions}" SelectedItem="{Binding SelectedCategory}">
+            <!--SelectionChanged="Type_SelectionChanged"-->
+        </ComboBox>
+        <Label Grid.Row="4" Grid.Column="0" Content="Description:"/>
+        <TextBox Grid.Row="4" Grid.Column="1" Width="200" x:Name="Description" Text="{Binding Description, Mode=TwoWay}"/>
+        <Label Grid.Row="5" Grid.Column="0" Content="To Do List:"/>
+        <ComboBox Grid.Row="5" Grid.Column="1" Width="200" x:Name="ToDoList" ItemsSource="{Binding ToDoLists}" SelectedItem="{Binding SelectedToDoList}">
+            <ComboBox.ItemTemplate>
+                <DataTemplate>
+                    <TextBlock Text="{Binding Title}"/>
+                </DataTemplate>
+            </ComboBox.ItemTemplate>
+        </ComboBox>
+        <Label Grid.Row="3" Grid.Column="0" Content="Deadline:"/>
+        <DatePicker Grid.Row="3" Grid.Column="1" Width="200" x:Name="Deadline" SelectedDate="{Binding Deadline, Mode=TwoWay}"/>
+        <StackPanel Grid.Row="6" Grid.Column="1" Orientation="Horizontal">
+            <Button Content="Add" Margin="0 10 10 10" Width="100" x:Name="AddButton" Command="{Binding AddCommand}"/>
+            <Button Content="Cancel" Margin="0 10 0 10" Width="100" x:Name="CancelButton"/>
+        </StackPanel>
+    </Grid>
+</UserControl>

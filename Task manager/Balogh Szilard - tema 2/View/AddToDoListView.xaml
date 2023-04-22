@@ -1,0 +1,26 @@
+﻿<UserControl x:Class="Balogh_Szilard___tema_2.View.AddToDoListView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Balogh_Szilard___tema_2.View" xmlns:local1="clr-namespace:Balogh_Szilard___tema_2.ViewModel"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+    <UserControl.DataContext>
+        <local1:AddToDoListViewModel></local1:AddToDoListViewModel>
+    </UserControl.DataContext>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+        </Grid.RowDefinitions>
+        <Label Grid.Row="0" Content="List title:"/>
+        <TextBox Grid.Row="1" Width="200" Text="{Binding ToDoListName, Mode=TwoWay}"/>
+        <Label Grid.Row="2" Content="List image:"/>
+        <TextBox Grid.Row="3" Width="200" Text="{Binding ToDoListImage, Mode=TwoWay}"/>
+        <Button Grid.Row="4" Content="OK" Margin="10" Command="{Binding AddCommand}"/>
+    </Grid>
+</UserControl>

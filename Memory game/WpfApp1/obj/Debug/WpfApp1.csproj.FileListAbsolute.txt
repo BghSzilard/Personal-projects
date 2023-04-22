@@ -1,0 +1,60 @@
+C:\Users\sziba\OneDrive\Desktop\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\sziba\OneDrive\Desktop\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\sziba\OneDrive\Desktop\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\sziba\OneDrive\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\sziba\OneDrive\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\sziba\OneDrive\Desktop\WpfApp1\WpfApp1\obj\Debug\AddUserDialog.baml
+C:\Users\sziba\OneDrive\Desktop\WpfApp1\WpfApp1\obj\Debug\CustomGameDialogBox.baml
+C:\Users\sziba\OneDrive\Desktop\WpfApp1\WpfApp1\obj\Debug\AddUserDialog.g.cs
+C:\Users\sziba\OneDrive\Desktop\WpfApp1\WpfApp1\obj\Debug\CustomGameDialogBox.g.cs
+C:\Users\sziba\OneDrive\Desktop\WpfApp1\WpfApp1\obj\Debug\GameWindow.g.cs
+C:\Users\sziba\OneDrive\Desktop\WpfApp1\WpfApp1\obj\Debug\MainGamePage.g.cs
+C:\Users\sziba\OneDrive\Desktop\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\sziba\OneDrive\Desktop\WpfApp1\WpfApp1\obj\Debug\NewGamePage.g.cs
+C:\Users\sziba\OneDrive\Desktop\WpfApp1\WpfApp1\obj\Debug\PasswordDialog.g.cs
+C:\Users\sziba\OneDrive\Desktop\WpfApp1\WpfApp1\obj\Debug\StatisticsPage.g.cs
+C:\Users\sziba\OneDrive\Desktop\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\sziba\OneDrive\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\sziba\OneDrive\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\sziba\OneDrive\Desktop\WpfApp1\WpfApp1\obj\Debug\GameWindow.baml
+C:\Users\sziba\OneDrive\Desktop\WpfApp1\WpfApp1\obj\Debug\MainGamePage.baml
+C:\Users\sziba\OneDrive\Desktop\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\sziba\OneDrive\Desktop\WpfApp1\WpfApp1\obj\Debug\NewGamePage.baml
+C:\Users\sziba\OneDrive\Desktop\WpfApp1\WpfApp1\obj\Debug\PasswordDialog.baml
+C:\Users\sziba\OneDrive\Desktop\WpfApp1\WpfApp1\obj\Debug\StatisticsPage.baml
+C:\Users\sziba\OneDrive\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\sziba\OneDrive\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\sziba\OneDrive\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\sziba\OneDrive\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\sziba\OneDrive\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\sziba\OneDrive\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\sziba\OneDrive\Desktop\Balogh Szilard - MVP tema1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\sziba\OneDrive\Desktop\Balogh Szilard - MVP tema1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\sziba\OneDrive\Desktop\Balogh Szilard - MVP tema1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\sziba\OneDrive\Desktop\Balogh Szilard - MVP tema1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\sziba\OneDrive\Desktop\Balogh Szilard - MVP tema1\WpfApp1\obj\Debug\WpfApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\sziba\OneDrive\Desktop\Balogh Szilard - MVP tema1\WpfApp1\obj\Debug\AddUserDialog.baml
+C:\Users\sziba\OneDrive\Desktop\Balogh Szilard - MVP tema1\WpfApp1\obj\Debug\CustomGameDialogBox.baml
+C:\Users\sziba\OneDrive\Desktop\Balogh Szilard - MVP tema1\WpfApp1\obj\Debug\AddUserDialog.g.cs
+C:\Users\sziba\OneDrive\Desktop\Balogh Szilard - MVP tema1\WpfApp1\obj\Debug\CustomGameDialogBox.g.cs
+C:\Users\sziba\OneDrive\Desktop\Balogh Szilard - MVP tema1\WpfApp1\obj\Debug\GameWindow.g.cs
+C:\Users\sziba\OneDrive\Desktop\Balogh Szilard - MVP tema1\WpfApp1\obj\Debug\MainGamePage.g.cs
+C:\Users\sziba\OneDrive\Desktop\Balogh Szilard - MVP tema1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\sziba\OneDrive\Desktop\Balogh Szilard - MVP tema1\WpfApp1\obj\Debug\NewGamePage.g.cs
+C:\Users\sziba\OneDrive\Desktop\Balogh Szilard - MVP tema1\WpfApp1\obj\Debug\PasswordDialog.g.cs
+C:\Users\sziba\OneDrive\Desktop\Balogh Szilard - MVP tema1\WpfApp1\obj\Debug\StatisticsPage.g.cs
+C:\Users\sziba\OneDrive\Desktop\Balogh Szilard - MVP tema1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\sziba\OneDrive\Desktop\Balogh Szilard - MVP tema1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\sziba\OneDrive\Desktop\Balogh Szilard - MVP tema1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\sziba\OneDrive\Desktop\Balogh Szilard - MVP tema1\WpfApp1\obj\Debug\GameWindow.baml
+C:\Users\sziba\OneDrive\Desktop\Balogh Szilard - MVP tema1\WpfApp1\obj\Debug\MainGamePage.baml
+C:\Users\sziba\OneDrive\Desktop\Balogh Szilard - MVP tema1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\sziba\OneDrive\Desktop\Balogh Szilard - MVP tema1\WpfApp1\obj\Debug\NewGamePage.baml
+C:\Users\sziba\OneDrive\Desktop\Balogh Szilard - MVP tema1\WpfApp1\obj\Debug\PasswordDialog.baml
+C:\Users\sziba\OneDrive\Desktop\Balogh Szilard - MVP tema1\WpfApp1\obj\Debug\StatisticsPage.baml
+C:\Users\sziba\OneDrive\Desktop\Balogh Szilard - MVP tema1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\sziba\OneDrive\Desktop\Balogh Szilard - MVP tema1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\sziba\OneDrive\Desktop\Balogh Szilard - MVP tema1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\sziba\OneDrive\Desktop\Balogh Szilard - MVP tema1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\sziba\OneDrive\Desktop\Balogh Szilard - MVP tema1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\sziba\OneDrive\Desktop\Balogh Szilard - MVP tema1\WpfApp1\obj\Debug\WpfApp1.pdb

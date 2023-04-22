@@ -1,0 +1,30 @@
+﻿<Window x:Class="WpfApp1.AddUserDialog"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Add User" Height="200" Width="300">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Label Grid.Row="0" Grid.Column="0" Content="Username:"/>
+        <TextBox Grid.Row="0" Grid.Column="1" x:Name="txtUsername" Text="{Binding Username, Mode=TwoWay}"/>
+        <Label Grid.Row="1" Grid.Column="0" Content="Password:"/>
+        <TextBox Grid.Row="1" Grid.Column="1" x:Name="txtPassword" Text="{Binding Password, Mode=TwoWay}"/>
+        <Label Grid.Row="2" Grid.Column="0" Content="Image name:"/>
+        <TextBox Grid.Row="2" Grid.Column="1" x:Name="txtImageName" Text="{Binding ImageName, Mode=TwoWay}"/>
+        <Image Grid.Row="3" Grid.ColumnSpan="2" x:Name="imgPreview" Stretch="UniformToFill"/>
+        <StackPanel Grid.Row="5" Grid.ColumnSpan="2" Orientation="Horizontal" HorizontalAlignment="Center">
+            <Button Margin="10" Content="OK" Click="OnOkClick"/>
+            <Button Margin="10" Content="Cancel" IsCancel="True"/>
+        </StackPanel>
+    </Grid>
+</Window>

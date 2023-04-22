@@ -1,0 +1,4 @@
+Sanyi,1234,29,9,card1.jpg
+Geza,34324,0,0,default.jpg
+Sanyika,asd,0,0,default.jpg
+Gebe,GebeIsTheBEST,0,0,default.jpg

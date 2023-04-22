@@ -1,0 +1,5 @@
+5
+4
+1
+card8.jpg,card10.jpg,card3.jpg,card1.jpg,card4.jpg,card2.jpg,card1.jpg,card7.jpg,card13.jpg,card10.jpg,card14.jpg,card13.jpg,card2.jpg,card4.jpg,card15.jpg,card15.jpg,card7.jpg,card3.jpg,card8.jpg,card14.jpg,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,

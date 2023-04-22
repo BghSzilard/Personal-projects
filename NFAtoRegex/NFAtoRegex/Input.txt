@@ -1,0 +1,10 @@
+ABCD
+abc
+A
+C
+A a -> B
+A a -> D
+A b -> B
+A b -> C
+B b -> C
+D c -> C
